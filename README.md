@@ -1,3 +1,3 @@
 # p3
 Lloc web-layout-rutes
-amelia148fhu.github.io./p3
+https://amelia148fhu.github.io/p3/pages/horari.html
